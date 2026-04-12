@@ -1,0 +1,100 @@
+Scénario d’entreprise fictive et Cahier des charges
+Nom de l’entreprise :
+🌱 GreenCity Solutions
+
+Contexte
+GreenCity Solutions est une jeune entreprise française spécialisée dans les solutions écologiques pour les espaces urbains : jardins partagés, mobilier urbain éco-conçu, ateliers de sensibilisation…
+L’entreprise souhaite un site vitrine pour se présenter, expliquer ses services et convaincre de nouveaux clients (collectivités, entreprises, associations, particuliers…).
+
+Cahier des charges (donné aux apprenants)
+Bonjour à l’équipe Web,
+
+Nous vous confions la création de notre tout premier site vitrine.
+Nous souhaitons un site clair, accueillant, moderne et éco-responsable dans son design.
+
+Le site doit comporter 5 pages distinctes, avec un menu de navigation présent sur toutes les pages.
+
+Pages attendues
+Accueil
+
+Présentation brève de GreenCity Solutions
+
+Mise en avant de la mission de l’entreprise et de ses valeurs écologiques
+
+Un visuel accrocheur (image ou illustration sur le thème de la ville verte)
+
+Un slogan impactant
+
+Nos services
+
+Présentation claire de 3 à 4 services phares avec une image ou une icône pour chacun
+
+Pour chaque service : titre, courte description, et bénéfices pour les clients
+
+À propos
+
+Histoire de l’entreprise, valeurs et engagements environnementaux
+
+Section “Notre équipe” : brève présentation de 3 membres fictifs (prénom, fonction, 1 phrase de présentation)
+
+Une photo de groupe ou illustration
+
+Actualités
+
+2 à 3 “actus” fictives récentes de l’entreprise (ex : participation à un salon, lancement d’une nouvelle offre, partenariat avec une mairie…)
+
+Pour chaque actualité : titre, date, petit texte, une image
+
+Un espace pour une citation inspirante sur l’écologie
+
+Contact
+
+Formulaire de contact (fictif, non fonctionnel) : nom, email, message
+
+Coordonnées de l’entreprise (adresse, téléphone, mail)
+
+Intégration d’une carte (Google Maps ou image d’une carte)
+
+Logos de 2-3 partenaires fictifs
+
+Organisation de l’équipe (exemple de découpage)
+Pour que chacun ait un vrai rôle :
+
+Page 1 : Accueil
+(1 personne : responsable de la page d’accueil, du slogan, et de l’aspect graphique général)
+
+Page 2 : Nos services
+(1 personne : responsable du contenu, recherche des images/icônes, mise en page claire)
+
+Page 3 : À propos & équipe
+(1 personne : responsable du texte “notre histoire”, des fiches équipe, de l’intégration d’une photo/illustration)
+
+Page 4 : Actualités
+(1 personne : responsable de l’écriture des actualités, choix des images, de la mise en page des actus, et de la citation)
+
+Page 5 : Contact
+(1 personne : responsable du formulaire, de la carte, des coordonnées, des logos partenaires)
+
+Bonus :
+
+Un responsable transversal peut être nommé pour l’harmonisation du style (couleurs, polices, menu, footer, responsive).
+
+Ou bien, chaque apprenant vérifie la cohérence en fin de projet.
+
+Consignes supplémentaires
+Le site doit être 100% HTML/CSS (pas de JavaScript cette semaine).
+
+Attention à l’accessibilité (textes lisibles, contrastes, taille de police).
+
+Travaillez sur un dossier partagé : chaque apprenant crée sa page, mais le menu/navigation et le footer doivent être communs et identiques.
+
+Vous pouvez utiliser des images libres de droit ou les générer avec une IA.
+
+Le vendredi, chaque apprenant présente sa page au groupe.
+
+Livrables attendus
+5 fichiers HTML (un par page) + 1 dossier CSS commun
+
+Un dossier images
+
+Un README.txt expliquant la structure du projet et les choix faits
