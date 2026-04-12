@@ -63,6 +63,7 @@ body {
   padding: 0 10px;
 }
 
+.menu-navbar a.active,
 .menu-navbar a:hover {
   color: #6cc070;
 }
